@@ -1,0 +1,2 @@
+S.No,Course,Category,Hours,Weekend/Weekday,start_date,"Batch Start date","Batch end date","Batch Dates","Start time","End time","Time Zone"
+1,"CI/CD Pipeline with Jenkins",DevOps,4,Weekend,2021-12-11,"11th Dec'21","25th Dec'21","11th Dec'21,12th Dec'21,18th Dec'21,19th Dec'21,25th Dec'21",19:30,23:30,IST
